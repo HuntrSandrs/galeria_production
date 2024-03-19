@@ -1,3 +1,1 @@
-https://whale-app-wjkbw.ondigitalocean.app
-
-Use this link to test the app in a live environment.
+This is a react web application that is is designed to sell merchandise that features public domain artwork from the metropolitan mueseum of art.
